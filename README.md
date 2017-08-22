@@ -1,4 +1,4 @@
-# BubbleGenerator
+# SnowGenerator
 
 Snow GIF animation generator
 
